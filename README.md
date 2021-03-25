@@ -8,5 +8,5 @@ Used pixela API
 
 used PULL ,POST GET , HTTP request 
 
-Kindly use your own API
+Kindly use your own API KEY
 
